@@ -1,0 +1,14 @@
+C:\Mkr_cross\LuckyNumbersCounter\LuckyNumbersCounter\bin\Debug\net8.0\LuckyNumbersCounter.exe
+C:\Mkr_cross\LuckyNumbersCounter\LuckyNumbersCounter\bin\Debug\net8.0\LuckyNumbersCounter.deps.json
+C:\Mkr_cross\LuckyNumbersCounter\LuckyNumbersCounter\bin\Debug\net8.0\LuckyNumbersCounter.runtimeconfig.json
+C:\Mkr_cross\LuckyNumbersCounter\LuckyNumbersCounter\bin\Debug\net8.0\LuckyNumbersCounter.dll
+C:\Mkr_cross\LuckyNumbersCounter\LuckyNumbersCounter\bin\Debug\net8.0\LuckyNumbersCounter.pdb
+C:\Mkr_cross\LuckyNumbersCounter\LuckyNumbersCounter\obj\Debug\net8.0\LuckyNumbersCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mkr_cross\LuckyNumbersCounter\LuckyNumbersCounter\obj\Debug\net8.0\LuckyNumbersCounter.AssemblyInfoInputs.cache
+C:\Mkr_cross\LuckyNumbersCounter\LuckyNumbersCounter\obj\Debug\net8.0\LuckyNumbersCounter.AssemblyInfo.cs
+C:\Mkr_cross\LuckyNumbersCounter\LuckyNumbersCounter\obj\Debug\net8.0\LuckyNumbersCounter.csproj.CoreCompileInputs.cache
+C:\Mkr_cross\LuckyNumbersCounter\LuckyNumbersCounter\obj\Debug\net8.0\LuckyNumbersCounter.dll
+C:\Mkr_cross\LuckyNumbersCounter\LuckyNumbersCounter\obj\Debug\net8.0\refint\LuckyNumbersCounter.dll
+C:\Mkr_cross\LuckyNumbersCounter\LuckyNumbersCounter\obj\Debug\net8.0\LuckyNumbersCounter.pdb
+C:\Mkr_cross\LuckyNumbersCounter\LuckyNumbersCounter\obj\Debug\net8.0\LuckyNumbersCounter.genruntimeconfig.cache
+C:\Mkr_cross\LuckyNumbersCounter\LuckyNumbersCounter\obj\Debug\net8.0\ref\LuckyNumbersCounter.dll
