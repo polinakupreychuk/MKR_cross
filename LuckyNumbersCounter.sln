@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuckyNumbersCounter", "LuckyNumbersCounter\LuckyNumbersCounter.csproj", "{21B8CFA9-D6C6-4439-98BA-29210B46CB3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramTests", "ProgramTests\ProgramTests.csproj", "{22E476DA-B1A7-40C8-9698-F08C5CABA96E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{21B8CFA9-D6C6-4439-98BA-29210B46CB3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21B8CFA9-D6C6-4439-98BA-29210B46CB3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21B8CFA9-D6C6-4439-98BA-29210B46CB3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22E476DA-B1A7-40C8-9698-F08C5CABA96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E476DA-B1A7-40C8-9698-F08C5CABA96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E476DA-B1A7-40C8-9698-F08C5CABA96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E476DA-B1A7-40C8-9698-F08C5CABA96E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

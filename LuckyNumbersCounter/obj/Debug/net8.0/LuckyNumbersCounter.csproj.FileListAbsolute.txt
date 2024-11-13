@@ -12,3 +12,4 @@ C:\Mkr_cross\LuckyNumbersCounter\LuckyNumbersCounter\obj\Debug\net8.0\refint\Luc
 C:\Mkr_cross\LuckyNumbersCounter\LuckyNumbersCounter\obj\Debug\net8.0\LuckyNumbersCounter.pdb
 C:\Mkr_cross\LuckyNumbersCounter\LuckyNumbersCounter\obj\Debug\net8.0\LuckyNumbersCounter.genruntimeconfig.cache
 C:\Mkr_cross\LuckyNumbersCounter\LuckyNumbersCounter\obj\Debug\net8.0\ref\LuckyNumbersCounter.dll
+C:\Mkr_cross\LuckyNumbersCounter\LuckyNumbersCounter\obj\Debug\net8.0\LuckyNumbersCounter.sourcelink.json
